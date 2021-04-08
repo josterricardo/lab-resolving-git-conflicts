@@ -26,3 +26,4 @@ Como experto en ciencia de datos y desarrollo de software
 
 * What is your career goal?
 Poder mejorar mis habilidades para aplicarlo en los diversos proyectos
+
